@@ -1,0 +1,11 @@
+package com.parth.katariya;
+
+public class Calc {
+	
+	public int add(int a, int b) {
+		
+		return a+b;
+		
+	}
+	
+}

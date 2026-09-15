@@ -1,0 +1,100 @@
+[
+  {
+    "trainId": "bacs",
+    "trainNo": 12345,
+    "seats": [
+      [0, 0, 1, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 1, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "bangalore": "13:50:00",
+      "jaipur": "05:40:00",
+      "delhi": "13:50:00"
+    },
+    "stations": [
+      "bangalore",
+      "jaipur",
+      "delhi"
+    ]
+  },
+  {
+    "trainId": "mmab",
+    "trainNo": 12901,
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 0, 0, 1, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "mumbai": "08:15:00",
+      "surat": "11:30:00",
+      "ahmedabad": "15:45:00"
+    },
+    "stations": [
+      "mumbai",
+      "surat",
+      "ahmedabad"
+    ]
+  },
+  {
+    "trainId": "abjp",
+    "trainNo": 19704,
+    "seats": [
+      [0, 1, 0, 0, 0, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "ahmedabad": "21:00:00",
+      "udaipur": "02:30:00",
+      "jaipur": "08:10:00"
+    },
+    "stations": [
+      "ahmedabad",
+      "udaipur",
+      "jaipur"
+    ]
+  },
+  {
+    "trainId": "dlkp",
+    "trainNo": 22452,
+    "seats": [
+      [1, 1, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 1, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "delhi": "06:00:00",
+      "kanpur": "11:20:00",
+      "prayagraj": "14:45:00"
+    },
+    "stations": [
+      "delhi",
+      "kanpur",
+      "prayagraj"
+    ]
+  },
+  {
+    "trainId": "cnkp",
+    "trainNo": 22801,
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 1, 1, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "chennai": "07:30:00",
+      "vijayawada": "13:10:00",
+      "visakhapatnam": "18:40:00"
+    },
+    "stations": [
+      "chennai",
+      "vijayawada",
+      "visakhapatnam"
+    ]
+  }
+]
